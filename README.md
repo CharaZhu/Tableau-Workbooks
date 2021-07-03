@@ -1,8 +1,6 @@
 # Tableau-Workbooks
 
-Tableau Practice Exercises
-
-| Workbook  | Content |
+| Workbook  | Topic |
 | ------------- | ------------- |
 | Workbook 1  | `Bar Chart`,`Histogram` (Create bins)  |
 | Workbook 2  | `Data Preprocessing`, `Line Plot`, `Pie Chart` & `Donut Chart` |
