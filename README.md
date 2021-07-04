@@ -6,7 +6,7 @@
 |  2  | `Data Preprocessing`, `Line Plot (Add Annotation)`, `Pie Chart` & `Donut Chart` |
 |  3  | `Highlight Table`, `Treemap (Add filter)`, `Packed Bubbles`, `Word Cloud` |
 |  4  | `Bullet Graph`, `Gantt Chart`, `Waterfall Chart (Show Row Grand Totals)`  |
-|  5  | `Join`，‘Map`,'Dasboard`|
+|  5  | `Join`，`Map`,`Dasboard`|
 |  ... |  ... |
 |  ... |  ... |
 |  ... |  ... |
