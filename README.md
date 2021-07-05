@@ -8,7 +8,7 @@
 |  4  | `Bullet Graph`, `Gantt Chart`, `Waterfall Chart (Show Row Grand Totals)`  |
 |  5  | `Join`，`Map`, `Dasboard`|
 |  6  | `Map（Area Annotation, Map layers)`, `Multiple Maps（Sort)`, `Layered Map`|
-|  7  | `Polygon Map`, `Geocoding`, `Web Maps Servicev`, `Background Image Map` |
+|  7  | `Polygon Map`, `Geocoding`, `Web Maps Service`, `Background Image Map` |
 |  ... |  ... |
 |  ... |  ... |
 |  ... |  ... |
