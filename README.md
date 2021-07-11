@@ -7,7 +7,7 @@
 |  3  | `Highlight Table`, `Treemap (Add filter)`, `Packed Bubbles`, `Word Cloud` |
 |  4  | `Bullet Graph`, `Gantt Chart`, `Waterfall Chart (Running Total, Row Grand Totals)`  |
 |  5  | `Join`，`Symbol Map`, `Dasboard`|
-|  6  | `Map（Area Annotation, Map layers)`, `Multiple Maps（Sort)`, `Layered Map`|
+|  6  | `Filled Map（Area Annotation, Map layers)`, `Multiple Maps（Sort)`, `Layered Map`|
 |  7  | `Polygon Map`, `Geocoding`, `Web Maps Service`, `Background Image Map` |
 |  8  | `Hierarchy`，`Group`，`Fixed Sets`，`Dynamic Sets`， `Combined Sets（In/Out of set)`|
 |  9  | `Calculated Field`，`Table Calculation（Quick, User-defined)`，`Create Parameter` |
