@@ -15,7 +15,7 @@
 |  9  | `Calculated Field`，`Table Calculation（Quick, User-defined)`，`Create Parameter` |
 |  10 | `Tornado Chart`，`Funnel Chart`，`Box Plot`|
 |  11 | `Band Chart`,  `Slope Graph`|
-|  12|  `Network Graph`, `Arc Chart`|
-|  ... |  ... |
+|  12 | `Network Graph`, `Arc Chart`|
+|  13 | `Radar chart`, `Bump Chart`|
 
-  
+   
