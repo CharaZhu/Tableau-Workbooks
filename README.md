@@ -17,5 +17,6 @@
 |  11 | `Band Chart`,  `Slope Graph`|
 |  12 | `Network Graph`, `Arc Chart`|
 |  13 | `Radar chart`, `Bump Chart`|
-
-   
+|  14 | `Linear Regressiont`, `Time Series`|   
+  
+ 
